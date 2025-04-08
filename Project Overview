@@ -9,12 +9,10 @@ Key Functionalities
 
 4. Doctor Review & Approval: Assigned doctors review the AI-generated prescriptions and approve or reject them via a secure web portal.
 
-5. Smart Dispensing Mechanism: On approval, the ATM performs a final safety check (e.g., reconfirming allergies) before dispensing medication.
+5. Payment System: Integrated RFID-based payment for secure and contactless transactions.
 
-6. Payment System: Integrated RFID-based payment for secure and contactless transactions.
+6. User Accounts & History Tracking: Both patients and doctors have dedicated dashboards to track medical history, prescriptions, and consultations.
 
-7. User Accounts & History Tracking: Both patients and doctors have dedicated dashboards to track medical history, prescriptions, and consultations.
+7. LCD Display Module: Provides user guidance, prescription info, and system status in real-time.
 
-8. LCD Display Module: Provides user guidance, prescription info, and system status in real-time.
-
-9. ML-Based Recommendation System: Suggests appropriate over-the-counter medications or health tips based on symptoms and past medical data, enhancing user assistance and personalization.
+8. ML-Based Recommendation System: Suggests appropriate over-the-counter medications or health tips based on symptoms and past medical data, enhancing user assistance and personalization.
