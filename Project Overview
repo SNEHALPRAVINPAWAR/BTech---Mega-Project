@@ -1,0 +1,20 @@
+The Medicine ATM is a smart, automated kiosk that collects patient health data, facilitates remote consultations, and safely dispenses prescribed medications. It integrates with a centralized web platform for real-time data processing, prescription management, and patient-doctor communication.
+
+Key Functionalities
+Vital Sign Monitoring: Captures real-time patient vitals such as body temperature, heart rate, and oxygen saturation via sensors.
+
+Health Data Input: Users can provide details about existing medical conditions, known allergies, and symptoms via an interactive interface.
+
+AI-Based Preliminary Diagnosis: Patient data is analyzed using ML-driven algorithms to generate a preliminary prescription in line with clinical guidelines.
+
+Doctor Review & Approval: Assigned doctors review the AI-generated prescriptions and approve or reject them via a secure web portal.
+
+Smart Dispensing Mechanism: On approval, the ATM performs a final safety check (e.g., reconfirming allergies) before dispensing medication.
+
+Payment System: Integrated RFID-based payment for secure and contactless transactions.
+
+User Accounts & History Tracking: Both patients and doctors have dedicated dashboards to track medical history, prescriptions, and consultations.
+
+LCD Display Module: Provides user guidance, prescription info, and system status in real-time.
+
+ML-Based Recommendation System: Suggests appropriate over-the-counter medications or health tips based on symptoms and past medical data, enhancing user assistance and personalization.
